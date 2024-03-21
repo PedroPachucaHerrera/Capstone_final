@@ -13,17 +13,17 @@ Below, it is a sample picture of the traffci signs in the data set
 
 the following libraies were used during this exercercise
 * ####  Pandas
-#### - Numpy
-#### - Keras
-#### - CV2
-#### - tensorflow
-#### - sklearn
+* ####  Numpy
+* ####  Keras
+* ####  CV2
+* ####  tensorflow
+* ####  sklearn
 
 A convulational neural network model was implemeneted with excellent results above and beyond the target:
 
-### Trainin accuracy = 96%
-### Validation accuracy: 98%
-### Test accuracy : 93%
+* ### Trainin accuracy = 96%
+* ### Validation accuracy: 98%
+* ### Test accuracy : 93%
 
 for the deployment a ramdom sample was tested and the result was positive 
 
