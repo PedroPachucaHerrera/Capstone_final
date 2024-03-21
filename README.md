@@ -12,7 +12,7 @@ Below, it is a sample picture of the traffci signs in the data set
 ![image](https://github.com/PedroPachucaHerrera/Capstone_final/assets/39275405/025d9ef2-4c4b-4a8f-a97c-5ed9925f4a76)
 
 the following libraies were used during this exercercise
-#### - Pandas
+#### * Pandas
 #### - Numpy
 #### - Keras
 #### - CV2
