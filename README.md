@@ -28,4 +28,4 @@ A convulational neural network model was implemeneted with excellent results abo
 for the deployment a ramdom sample was tested and the result was positive 
 
 ## Conclusions
-the convulational neural network provided outstanding results however, for a real life implementtaion more work needs to be done, the test accuracy is still low to be deployed in a real autunomous vehicle       
+The convulational neural network provided outstanding results however, for a real life implementtaion more work needs to be done, the test accuracy is still low to be deployed in a real autunomous vehicle       
