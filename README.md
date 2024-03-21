@@ -11,8 +11,21 @@ Below, it is a sample picture of the traffci signs in the data set
 
 ![image](https://github.com/PedroPachucaHerrera/Capstone_final/assets/39275405/025d9ef2-4c4b-4a8f-a97c-5ed9925f4a76)
 
-A convulational neural model was implemeneted provide excellent results above and beyond the target:
+the following librraies were used during this exercercise
+#### Pandas
+#### Numpy
+#### Keras
+#### CV2
+#### tensorflow
+#### sklearn
+
+A convulational neural network model was implemeneted with excellent results above and beyond the target:
 
 ### Trainin accuracy = 96%
 ### Validation accuracy: 98%
 ### Test accuracy : 93%
+
+for the deployment a ramdom sample was tested and the result was positive 
+
+## Conclusions
+the convulational neural network provided outstanding results however, for a real life implementtaion more work needs to be done, the test accuracy is still low to be deployed in a real autunomous vehicle       
